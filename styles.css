@@ -6,7 +6,7 @@ body{
 
 h1{
     font-size: 45px;
-    color: black;
+    color: gold;
     text-align: center;
     text-decoration: underline;
     text-shadow: seagreen 3px 3px;
@@ -16,7 +16,7 @@ h2{
     color:black; 
     font-size: 30px;
     text-align: center;
-    text-shadow: white 3px 3px; 
+    text-shadow: palevioletred 3px 3px; 
 }
 
 p{
@@ -36,6 +36,6 @@ h3{
     color: black
 }
 span{
-    text-decoration-line: underline;
-    font-size: 30px;
+    text-decoration:underline ;
+    font-size: 40px;
 }
